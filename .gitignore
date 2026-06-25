@@ -1,0 +1,6 @@
+env310/
+__pycache__/
+.ruff_cache/
+*.pyc
+.env
+.venv/
